@@ -2,7 +2,6 @@
 import json
 from graphviz import Digraph
 import streamlit as st
-from openai import OpenAI
 from groq import Groq
 from pydantic import BaseModel
 
